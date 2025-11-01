@@ -1,5 +1,9 @@
 # 💫 About Me:
-- I’m a materials and process engineer specializing in glass and ceramics.<br>- I focus on sustainable container glass production and process optimization.<br>- My work combines data analytics, automation, and digital infrastructure.<br>- I develop research tools in Python, Grafana, PostgreSQL, and MediaWiki.<br>- Currently part of the ZeroCO2-Glass project at RWTH Aachen and IPGR.
+- I’m a materials and process engineer specializing in glass and ceramics.<br>
+- I focus on sustainable container glass production and process optimization.<br>
+- My work combines data analytics, automation, and digital infrastructure.<br>
+- I develop research tools in Python, Grafana, PostgreSQL, and MediaWiki.<br>
+- Currently part of the ZeroCO2-Glass project at RWTH Aachen and IPGR.
 
 
 ## 🌐 Socials:
